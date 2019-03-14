@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="txt_title_new_note">Add New Note</string>
+    <string name="lbl_new_notetitle">New Note</string>
+    <string name="lbl_edit_notetitle">Edit Note</string>
+</resources>
